@@ -1,0 +1,8 @@
+filter:
+    google_analytics:
+        tag: "MY-PROPERTY-TAG"
+    mailer:
+        from:
+            name: "myname"
+            address: "myaddress@example.com"
+        dsn: "smtp://smtp.example.com:25"

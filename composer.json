@@ -1,0 +1,11 @@
+{
+  "require": {
+    "monolog/monolog": "3.2.*",
+    "symfony/yaml": "^5.4",
+    "symfony/mailer": "^5.4"
+  },
+
+  "autoload": {
+    "psr-4": {"Vulkhan\\Toolbox\\": "src/"}
+  }
+}
